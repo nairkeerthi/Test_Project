@@ -1,1 +1,1 @@
-# This is a test project for Pipeline Demo
+[![Build Status](https://dev.azure.com/nairkeerthi0608/Test_Project/_apis/build/status%2Fnairkeerthi.PipelineDemoProject?branchName=master)](https://dev.azure.com/nairkeerthi0608/Test_Project/_build/latest?definitionId=1&branchName=master)
